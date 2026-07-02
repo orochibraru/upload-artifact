@@ -43,6 +43,7 @@ export function getInputs(): UploadInputs {
 	}
 
 	const compressionLevelStr = core.getInput(Inputs.CompressionLevel);
+
 	if (compressionLevelStr) {
 		inputs.compressionLevel = parseInt(compressionLevelStr, 10);
 		if (Number.isNaN(inputs.compressionLevel)) {
