@@ -26,12 +26,12 @@ Artifact related issues will be tracked in this repository so please do not open
 
 1. [Fork][fork] and clone the repository
 2. Configure and install the dependencies: `npm install`
-3. Make sure the tests pass on your machine: `npm run test`
+3. Make sure the tests pass on your machine: `bun run  test`
 4. Create a new branch: `git checkout -b my-branch-name`
 5. Make your change, add tests, and make sure the tests still pass
-6. Make sure your code is correctly formatted: `npm run format`
-7. Make sure your code passes linting: `npm run lint`
-8. Update `dist/index.js` using `npm run release`. This creates a single javascript file that is used as an entry-point for the action
+6. Make sure your code is correctly formatted: `bun run  format`
+7. Make sure your code passes linting: `bun run  lint`
+8. Update `dist/index.js` using `bun run  release`. This creates a single javascript file that is used as an entry-point for the action
 7. Push to your fork and [submit a pull request][pr]
 8. Pat your self on the back and wait for your pull request to be reviewed and merged.
 
