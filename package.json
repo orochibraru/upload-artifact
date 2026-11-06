@@ -43,7 +43,7 @@
 		"@biomejs/biome": "^2.5.2",
 		"@types/jest": "^30.0.0",
 		"@types/node": "^26.1.0",
-		"@vercel/ncc": "^0.44.1",
+		"@vercel/ncc": "^0.45.0",
 		"concurrently": "^10.0.3",
 		"husky": "^9.1.7",
 		"jest": "^30.4.2",

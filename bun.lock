@@ -16,7 +16,7 @@
         "@biomejs/biome": "^2.5.2",
         "@types/jest": "^30.0.0",
         "@types/node": "^26.1.0",
-        "@vercel/ncc": "^0.44.1",
+        "@vercel/ncc": "^0.45.0",
         "concurrently": "^10.0.3",
         "husky": "^9.1.7",
         "jest": "^30.4.2",
@@ -344,7 +344,7 @@
 
     "@unrs/resolver-binding-win32-x64-msvc": ["@unrs/resolver-binding-win32-x64-msvc@1.11.1", "", { "os": "win32", "cpu": "x64" }, "sha512-lrW200hZdbfRtztbygyaq/6jP6AKE8qQN2KvPcJ+x7wiD038YtnYtZ82IMNJ69GJibV7bwL3y9FgK+5w/pYt6g=="],
 
-    "@vercel/ncc": ["@vercel/ncc@0.44.1", "", { "bin": { "ncc": "dist/ncc/cli.js" } }, "sha512-cUjIE5P2YY1n+Kt9rFIazMMpGoPn1Fic04rOmTkElMkiDP5oszGfERMpo2shVkFKDL7rVppdM2pqJKC59shQWQ=="],
+    "@vercel/ncc": ["@vercel/ncc@0.45.0", "", { "bin": { "ncc": "dist/ncc/cli.js" } }, "sha512-8zPi1yO2mHpoKTD+e+Bf0ZT3e+sWHSOyGapm9s7b5R0gxJi3CiFTqmeQiMEyu6ejrz2s09M8JkEoUaTWjBJPQQ=="],
 
     "abort-controller": ["abort-controller@3.0.0", "", { "dependencies": { "event-target-shim": "^5.0.0" } }, "sha512-h8lQ8tacZYnR3vNQTgibj+tODHI5/+l06Au2Pcriv/Gmet0eaj4TwWH41sO9wnHDiQsEj19q0drzdWdeAHtweg=="],
 
